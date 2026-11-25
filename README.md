@@ -50,7 +50,7 @@ This dashboard explores the following analytical questions:
 - Multiple visualizations in a single dashboard.
 
 ## 🖥️ Dashboard Screenshot
-https://github.com/bindiyakumari/Diamond-Price-Analysis/blob/main/Diamond%20price%20analysis.png
+![Diamond Price Analysis Dashboard](https://github.com/bindiyakumari/Diamond-Price-Analysis/blob/main/Diamond%20price%20analysis.png)
 
 
 ## 🗂️ Dataset Information
